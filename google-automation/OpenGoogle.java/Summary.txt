@@ -1,0 +1,17 @@
+Practice: Google Search Automation
+-------------------------------------
+✅ Tool: Selenium WebDriver
+✅ Browser: Chrome
+✅ What I did:
+- Launched Chrome and opened Google.
+- Entered "SeleniumWebdriver" in the search box.
+- Submitted the search and printed the page title.
+
+⚠️ Faced:
+- Initial path issue with ChromeDriver, solved by setting system property.
+
+📚 Learned:
+- Basic setup for Selenium in Java.
+- Finding elements with By.name.
+- Using sendKeys() and submit() methods.
+
